@@ -11,3 +11,5 @@ Year wise filtering
 * INSIGHTS
 Profit margin stands at 14.49%
 Strong growth trends in final quarter
+DASHBOARD PREVIEW
+[dashboard Preview](dashboard-preview.png)
